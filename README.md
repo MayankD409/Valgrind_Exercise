@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Valgrind_Exercise
-=======
 # Valgrind Exercise
 
 ## Standard install via command-line
@@ -23,4 +20,3 @@
   rm -rf build/
 ```
 
->>>>>>> origin/valgrind_exercise
