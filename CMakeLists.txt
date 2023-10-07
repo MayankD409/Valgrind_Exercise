@@ -4,6 +4,8 @@ project(scratch)
 set(CMAKE_CXX_STANDARD 14)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
+# Set compiler flags (including -g for debugging information)
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -g")
 
 #
 # Create the compilation database for clangd and move it out of the build dir.
